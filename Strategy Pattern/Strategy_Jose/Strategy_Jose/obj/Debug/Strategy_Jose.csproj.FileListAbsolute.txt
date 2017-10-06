@@ -1,0 +1,7 @@
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\bin\Debug\Strategy_Jose.exe.config
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\bin\Debug\Strategy_Jose.exe
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\bin\Debug\Strategy_Jose.pdb
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\obj\Debug\Strategy_Jose.csprojResolveAssemblyReference.cache
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\obj\Debug\Strategy_Jose.csproj.CoreCompileInputs.cache
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\obj\Debug\Strategy_Jose.exe
+c:\users\jose.kal\documents\visual studio 2017\Projects\Strategy_Jose\Strategy_Jose\obj\Debug\Strategy_Jose.pdb
